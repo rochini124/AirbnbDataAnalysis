@@ -1,7 +1,7 @@
 # Springboard_Airbnb_DataAnalysis_Project
 
 ## Objective: 
-How can the number of customers for the property holding < 5 number of reviews be improved within the next 6 months by improving the price and amenities.
+The goal of the project is to analyse the New York Airbnb data set and to generate insights that could lead to increase in number of reviews of a property.
 
 ## Dataset: 
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data#AB_NYC_2019.csv
